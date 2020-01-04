@@ -8,6 +8,8 @@
 
 ## Get your random nums:
 
+This doesn't work yet unless you change `return` to `print` in the function return statement but you can test it (see below)
+
 ```
 $ pipenv run python rando.py
 ```
