@@ -29,3 +29,7 @@ $ pipenv run pytest --cov --cov-fail-under=100
 ## Anarchy!
 
 `git commit --no-verify` and `git push --no-verify` to skip pre-commit hooks 😏
+
+### Note:
+
+I have not yet researched the correct conventions for python nor how to structure a python project, please don't hate - this is a work in progress/noobie playground.
