@@ -3,11 +3,14 @@
 ## Install:
 
 1. clone/download this repo & `cd` into it
-2. `$ pipenv install`
-3. have python installed on your machine before you do it
+2. make sure you have python and `pipenv` installed on your machine
+3. run `$ pipenv install`
 
 ## Get your random nums:
 
+```
+$ pipenv run python rando.py
+```
 
 ## Run tests:
 
@@ -20,3 +23,7 @@ $ pipenv run pytest
 ```
 $ pipenv run pytest --cov --cov-fail-under=100
 ```
+
+## Anarchy!
+
+`git commit --no-verify` and `git push --no-verify` to skip pre-commit hooks 😏
