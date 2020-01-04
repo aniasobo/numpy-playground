@@ -11,7 +11,7 @@
 This doesn't work yet unless you change `return` to `print` in the function return statement but you can test it (see below)
 
 ```
-$ pipenv run python rando.py
+$ pipenv run python app.py
 ```
 
 ## Run tests:
