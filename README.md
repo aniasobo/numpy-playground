@@ -33,3 +33,7 @@ $ pipenv run pytest --cov --cov-fail-under=100
 ### Note:
 
 I have not yet researched the correct conventions for python nor how to structure a python project, please don't hate - this is a work in progress/noobie playground.
+
+## TODO
+
+re-add `__init__.py` where the functions are to use them in `app.py`; move tests to another directory - figure out how to hook up tests to methods in another directory
